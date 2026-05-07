@@ -15,9 +15,9 @@ For this week's quiz, I have identified the visual phenomenon of **water ripples
 This technique is beneficial because it creates an organic and fluid visual language that effectively visualizes "impact" and "connection." By using ripples, I can transform abstract data from multiple mechanics—such as **Audio** levels, **Time-based** events, **Perlin Noise**, or **User Input**—into a tangible, meditative experience. This provides a reactive visual feedback system that scales naturally based on the intensity of the input.
 
 #### Visual Inspiration Examples
-![Natural ripple expansion 1](Images\ripple_1.jpg)
+![Natural ripple expansion 1](Images/ripple_1.jpg)
 
-![Natural ripple expansion 2](Images\ripple_2.jpg)
+![Natural ripple expansion 2](Images/ripple_2.jpg)
 
 > The images above illustrate how a single point of impact can influence the surrounding environment through wave propagation.
 
@@ -36,7 +36,7 @@ This coding technique helps achieve the desired effect by encapsulating properti
 * **Time-based:** Timers reduce the alpha over time.
 
 #### Implementation Preview
-![Screenshot of the coding technique](Images\example_1.png)
+![Screenshot of the coding technique](Images/example_1.png)
 
 #### Example Implementation and Code
 You can find an example of this implementation via the links below:
